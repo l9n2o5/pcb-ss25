@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-C3-WROOM-02U-N4
+D Multiprotocol Modules SMD module, ESP32-C3, 4MB SPI flash, IPEX antenna, -40 C +85 C
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

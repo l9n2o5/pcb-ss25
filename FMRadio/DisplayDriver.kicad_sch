@@ -1,0 +1,32 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "937310de-b2c4-4419-b5e1-b8edf6c60b83")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "DRI_IN"
+		(shape input)
+		(at 88.9 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "40e92aad-cee3-467c-a1af-c899eeb50ffd")
+	)
+	(hierarchical_label "DRI_OUT"
+		(shape output)
+		(at 87.63 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8ad3c2d0-d25c-420d-a944-fee725bc2456")
+	)
+)

@@ -1,0 +1,44 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c3122e71-6f54-4ac6-9fad-b9086a16000c")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "DISP_OUT"
+		(shape output)
+		(at 90.17 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04947f59-9c07-4509-befc-71c7d40ec0e2")
+	)
+	(hierarchical_label "DIO"
+		(shape bidirectional)
+		(at 90.17 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "406cbdc7-c5e4-4ba7-afc3-e8773ad80938")
+	)
+	(hierarchical_label "INT_IN"
+		(shape input)
+		(at 90.17 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f85c6a69-d35e-4f20-b92a-f21e95297585")
+	)
+)

@@ -1,0 +1,32 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2e0d8a1e-5de7-4fa0-a453-b40a3238ace7")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "AUDIO_IN"
+		(shape input)
+		(at 92.71 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29998884-a735-4996-9ace-86ac8960e39f")
+	)
+	(hierarchical_label "AUDIO_OUT"
+		(shape output)
+		(at 92.71 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab7b8d0a-0ac6-455c-b7d9-24c144c5d1b3")
+	)
+)

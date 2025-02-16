@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9f749681-747d-431e-a0a2-9cea735d15df")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "AUDIO_OUT_L"
+		(shape output)
+		(at 82.55 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1afbc852-928c-46ba-9fee-dc76b3b58675")
+	)
+	(hierarchical_label "AUDIO_OUT_R"
+		(shape output)
+		(at 82.55 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99b79fdf-bc66-4072-b8f0-10e3f0c1cd7b")
+	)
+	(hierarchical_label "DIO"
+		(shape bidirectional)
+		(at 82.55 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb6c12c9-c6b7-4ccc-b263-0a19e339c38b")
+	)
+	(hierarchical_label "ANT_IN"
+		(shape input)
+		(at 82.55 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "daeb091b-4ee0-4a13-8e9a-f818f5060325")
+	)
+)
